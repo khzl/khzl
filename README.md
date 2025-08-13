@@ -37,4 +37,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khzl&show_icons=true&locale=en" alt="khzl" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khzl&" alt="khzl" /></p>
