@@ -43,7 +43,6 @@
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50" style="background-color:white; padding:5px; border-radius:10px;"/>
 </p>
 
-
 ---
 
 ### 📊 GitHub Stats  
@@ -66,25 +65,6 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=khzl&theme=radical" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khzl&theme=radical&utcOffset=3" />
 </p>
-
----
-
-### 🚀 Skills Progress
-
-**NodeJS**  
-![NodeJS](https://progress-bar.dev/85/?title=Advanced&width=300)
-
-**NestJS**  
-![NestJS](https://progress-bar.dev/70/?title=Intermediate&width=300&color=yellow)
-
-**PostgreSQL**  
-![PostgreSQL](https://progress-bar.dev/75/?title=Intermediate&width=300&color=blue)
-
-**MS SQL Server**  
-![MSSQL](https://progress-bar.dev/90/?title=Intermediate&width=300&color=red)
-
-**C# / .NET**  
-![DotNet](https://progress-bar.dev/90/?title=Advanced&width=300&color=purple)
 
 ---
 
