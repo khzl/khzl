@@ -58,6 +58,36 @@
 
 ---
 
+### 📈 GitHub Activity
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khzl&theme=radical" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khzl&theme=radical" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khzl&theme=radical" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=khzl&theme=radical" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khzl&theme=radical&utcOffset=3" />
+</p>
+
+---
+
+### 🚀 Skills Progress
+
+**NodeJS**  
+![NodeJS](https://progress-bar.dev/85/?title=Advanced&width=300)
+
+**NestJS**  
+![NestJS](https://progress-bar.dev/70/?title=Intermediate&width=300&color=yellow)
+
+**PostgreSQL**  
+![PostgreSQL](https://progress-bar.dev/75/?title=Intermediate&width=300&color=blue)
+
+**MS SQL Server**  
+![MSSQL](https://progress-bar.dev/90/?title=Intermediate&width=300&color=red)
+
+**C# / .NET**  
+![DotNet](https://progress-bar.dev/90/?title=Advanced&width=300&color=purple)
+
+---
+
 ### 🏆 Trophies  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=khzl&theme=onedark&row=1&column=6" alt="GitHub Trophies"/>
