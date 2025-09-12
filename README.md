@@ -24,7 +24,9 @@
 <a href="https://codepen.io/khazaal2001" target="_blank"><img src="https://skillicons.dev/icons?i=codepen" width="40" height="40"/></a>
 <a href="https://linkedin.com/in/khazaal-emad" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/></a>
 <a href="https://instagram.com/kz_2.prog" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="40" height="40"/></a>
-<a href="https://www.youtube.com/c/@_khazaalemad3282" target="_blank"><img src="https://skillicons.dev/icons?i=youtube" width="40" height="40"/></a>
+<a href="https://www.youtube.com/c/@_khazaalemad3282" target="_blank">
+  <img src="https://www.svgrepo.com/show/13671/youtube.svg" width="40" height="40"/>
+</a>
 <a href="https://codeforces.com/profile/khazaal-211" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="40" height="40"/></a>
 <a href="https://www.leetcode.com/khzklmad48" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" width="40" height="40"/></a>
 </p>
