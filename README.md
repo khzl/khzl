@@ -30,11 +30,13 @@
 </p>
 
 ---
-
+ 
 ### 🛠️ Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,express,postgres,mongodb,mysql,cs,dotnet,cpp,git,bash,postman,unity" /><br/>
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,express,postgres,mongodb,cs,dotnet,cpp,git,bash,postman,unity" /><br/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50"/>
 </p>
+
 
 ---
 
