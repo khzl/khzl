@@ -7,10 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=khzl&label=Profile%20views&color=0e75b6&style=flat" alt="khzl" />
 </p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khzl" alt="khzl" />
-</div>
-
 ---
 
 # 💫 About Me:
@@ -40,24 +36,4 @@
 [![](https://visitcount.itsvg.in/api?id=khzl&icon=5&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
-
-## 📊 GitHub Stats
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=khzl&show_icons=true&locale=en&hide_title=true" alt="Khazaal's GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khzl&show_icons=true&locale=en&layout=compact&hide_title=true" alt="Khazaal's Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=khzl&" alt="Khazaal's GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
 ---
